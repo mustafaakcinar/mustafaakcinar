@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+# Hey there 👋
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👩‍💻  About Me
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🛠 Language and tools
 
 ###
 
